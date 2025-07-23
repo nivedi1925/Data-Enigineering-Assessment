@@ -160,8 +160,7 @@ An alternative approach could have been the use of ENUM, but booleans are simple
 - NULL values are retained in the dataset.
 No imputation or row removal has been applied. This is intentional, as NULLs may carry valuable business insight, such as missing entries due to real-world absence or delays, and should not be discarded blindly.
 #### Schema design:
-![]()
-![]()
+![images/Schema_1.png](images/Schema_1.png)
 ## ETL Flow
 
 1. **Extract**  
