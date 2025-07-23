@@ -1,0 +1,89 @@
+2025-07-22 23:00:52,883 - main - INFO - Attempting to read JSON file: /home/developer/Coding/assignments/data_engineer_assessment/data/fake_property_data.json
+2025-07-22 23:00:53,857 - main - INFO - JSON extraction completed.
+2025-07-22 23:00:53,857 - main - INFO - Dataframe transformation started.
+2025-07-22 23:00:53,965 - main - INFO - Properties Dataframe transformation compleated.
+2025-07-22 23:00:53,971 - main - INFO - HOA Dataframe transformation compleated.
+2025-07-22 23:00:54,042 - main - INFO - Rehab Dataframe transformation compleated.
+2025-07-22 23:00:54,042 - main - INFO - Valuation Dataframe transformation compleated.
+2025-07-22 23:00:54,060 - main - INFO - Loading the data to MySQL database.
+2025-07-22 23:00:54,066 - load - ERROR - Failed to store lookup tables!
+2025-07-22 23:00:54,068 - load - ERROR - Failed to load lookup tables!
+2025-07-22 23:00:54,068 - main - ERROR - Database Load failed!
+2025-07-22 23:01:19,101 - main - INFO - Attempting to read JSON file: /home/developer/Coding/assignments/data_engineer_assessment/data/fake_property_data.json
+2025-07-22 23:01:20,065 - main - INFO - JSON extraction completed.
+2025-07-22 23:01:20,066 - main - INFO - Dataframe transformation started.
+2025-07-22 23:01:20,201 - main - INFO - Properties Dataframe transformation compleated.
+2025-07-22 23:01:20,207 - main - INFO - HOA Dataframe transformation compleated.
+2025-07-22 23:01:20,282 - main - INFO - Rehab Dataframe transformation compleated.
+2025-07-22 23:01:20,283 - main - INFO - Valuation Dataframe transformation compleated.
+2025-07-22 23:01:20,301 - main - INFO - Loading the data to MySQL database.
+2025-07-22 23:01:20,307 - load - ERROR - Failed to store lookup tables!
+2025-07-22 23:01:20,309 - load - ERROR - Failed to load lookup tables!
+2025-07-22 23:01:20,309 - main - ERROR - Database Load failed!
+2025-07-22 23:03:07,003 - main - INFO - ETL job started...!
+2025-07-22 23:03:07,004 - main - INFO - Attempting to read JSON file: /home/developer/Coding/assignments/data_engineer_assessment/data/fake_property_data.json
+2025-07-22 23:03:07,905 - main - INFO - JSON extraction completed.
+2025-07-22 23:03:07,905 - main - INFO - Dataframe transformation started.
+2025-07-22 23:03:08,004 - main - INFO - Properties Dataframe transformation compleated.
+2025-07-22 23:03:08,009 - main - INFO - HOA Dataframe transformation compleated.
+2025-07-22 23:03:08,074 - main - INFO - Rehab Dataframe transformation compleated.
+2025-07-22 23:03:08,074 - main - INFO - Valuation Dataframe transformation compleated.
+2025-07-22 23:03:08,091 - main - INFO - Loading the data to MySQL database.
+2025-07-22 23:03:08,099 - load - ERROR - Failed to store lookup tables!
+2025-07-22 23:03:08,102 - load - ERROR - Failed to load lookup tables!
+2025-07-22 23:03:08,103 - main - ERROR - Database Load failed!
+2025-07-22 23:07:28,889 - main - INFO - ETL job started...!
+2025-07-22 23:07:28,890 - main - INFO - Attempting to read JSON file: /home/developer/Coding/assignments/data_engineer_assessment/data/fake_property_data.json
+2025-07-22 23:07:29,822 - main - INFO - JSON extraction completed.
+2025-07-22 23:07:29,822 - main - INFO - Dataframe transformation started.
+2025-07-22 23:07:29,936 - main - INFO - Properties Dataframe transformation compleated.
+2025-07-22 23:07:29,942 - main - INFO - HOA Dataframe transformation compleated.
+2025-07-22 23:07:30,013 - main - INFO - Rehab Dataframe transformation compleated.
+2025-07-22 23:07:30,013 - main - INFO - Valuation Dataframe transformation compleated.
+2025-07-22 23:07:30,030 - main - INFO - Loading the data to MySQL database.
+2025-07-22 23:07:41,319 - main - INFO - Table load_property_details compleate.
+2025-07-22 23:07:48,705 - main - INFO - Table load_property_address compleate.
+2025-07-22 23:07:52,941 - main - INFO - Table load_tax_details compleate.
+2025-07-22 23:08:01,297 - main - INFO - Table load_leads compleate.
+2025-07-22 23:08:08,804 - main - INFO - Table load_property_valuation compleate.
+2025-07-22 23:08:14,313 - main - INFO - Table load_hoa_details compleate.
+2025-07-22 23:08:25,064 - main - INFO - Table load_property_rehab compleated.
+2025-07-22 23:08:25,064 - main - INFO - ETL Successful.
+2025-07-23 00:21:41,116 - main - INFO - ETL job started...!
+2025-07-23 00:22:16,656 - main - INFO - ETL job started...!
+2025-07-23 00:25:21,066 - main - INFO - ETL job started...!
+2025-07-23 01:50:32,844 - main - INFO - ETL job started...!
+2025-07-23 01:50:52,289 - main - INFO - ETL job started...!
+2025-07-23 01:50:52,290 - main - INFO - Attempting to read JSON file: /home/developer/Coding/assignments/data_engineer_assessment/data/fake_property_data.json
+2025-07-23 01:50:53,206 - main - INFO - JSON extraction completed.
+2025-07-23 01:50:53,206 - main - INFO - Dataframe transformation started.
+2025-07-23 01:50:53,304 - main - INFO - Properties Dataframe transformation compleated.
+2025-07-23 01:50:53,309 - main - INFO - HOA Dataframe transformation compleated.
+2025-07-23 01:50:53,373 - main - INFO - Rehab Dataframe transformation compleated.
+2025-07-23 01:50:53,374 - main - INFO - Valuation Dataframe transformation compleated.
+2025-07-23 01:50:53,391 - main - INFO - Loading the data to MySQL database.
+2025-07-23 01:51:04,118 - main - INFO - Table load_property_details compleate.
+2025-07-23 01:51:10,372 - main - INFO - Table load_property_address compleate.
+2025-07-23 01:51:14,751 - main - INFO - Table load_tax_details compleate.
+2025-07-23 01:51:24,467 - main - INFO - Table load_leads compleate.
+2025-07-23 01:51:34,418 - main - INFO - Table load_property_valuation compleate.
+2025-07-23 01:51:40,766 - main - INFO - Table load_hoa_details compleate.
+2025-07-23 01:51:51,648 - main - INFO - Table load_property_rehab compleated.
+2025-07-23 01:51:51,648 - main - INFO - ETL Successful.
+2025-07-23 10:20:10,075 - main - INFO - ETL job started...!
+2025-07-23 10:20:10,136 - main - INFO - Attempting to read JSON file: /home/developer/Coding/assignments/data_engineer_assessment_Niranjan_Dhooli/data/fake_property_data.json
+2025-07-23 10:20:11,466 - main - INFO - JSON extraction completed.
+2025-07-23 10:20:11,466 - main - INFO - Dataframe transformation started.
+2025-07-23 10:20:11,619 - main - INFO - Properties Dataframe transformation compleated.
+2025-07-23 10:20:11,625 - main - INFO - HOA Dataframe transformation compleated.
+2025-07-23 10:20:11,690 - main - INFO - Rehab Dataframe transformation compleated.
+2025-07-23 10:20:11,690 - main - INFO - Valuation Dataframe transformation compleated.
+2025-07-23 10:20:11,807 - main - INFO - Loading the data to MySQL database.
+2025-07-23 10:20:36,029 - main - INFO - Table load_property_details compleate.
+2025-07-23 10:20:49,685 - main - INFO - Table load_property_address compleate.
+2025-07-23 10:20:58,252 - main - INFO - Table load_tax_details compleate.
+2025-07-23 10:21:15,162 - main - INFO - Table load_leads compleate.
+2025-07-23 10:21:32,529 - main - INFO - Table load_property_valuation compleate.
+2025-07-23 10:21:41,994 - main - INFO - Table load_hoa_details compleate.
+2025-07-23 10:21:59,467 - main - INFO - Table load_property_rehab compleated.
+2025-07-23 10:21:59,467 - main - INFO - ETL Successful.

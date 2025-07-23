@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+home_llc_env/
+home_llc/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Mac/Linux system files
+.DS_Store
+
+# Environment variables and credentials
+.env
+*.env
+secrets.yml
+
+# SQL dumps or large test data files
+*.sql
+*.sqlite
+*.db
+data/raw/
+data/interim/
+
+# Compiled C extensions
+*.so
+
+# MyPy and Pytest cache
+.mypy_cache/
+.pytest_cache/
+
+
+# Other temp files
+*.tmp
+*.bak
+*.swp
+
