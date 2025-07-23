@@ -129,7 +129,7 @@ data_engineer_assessment/
    └── Dockerfile.initial_db
 ```
 ## Data EDA and profiling
-Data profiling has been carried out and following conclutions are made.
+Data profiling has been carried out and following conclusions are made.
 | Column Name                                                              | Unique Values | Clean Required?                      | Lookup Table? | Notes                                                  |
 | ------------------------------------------------------------------------ | ------------- | ------------------------------------ | ------------- | ------------------------------------------------------ |
 | `Reviewed_Status`                                                        | 10           |  Yes (e.g., typos, trailing spaces) |  Yes         | Categorical, inconsistent, frequently reused           |
