@@ -10,7 +10,7 @@ This exercise evaluates your core **data-engineering** skills:
 
 ---
 
-## 0 Prerequisites & Setup
+##  Prerequisites & Setup
 
 > **Allowed technologies**
 
@@ -21,14 +21,6 @@ This exercise evaluates your core **data-engineering** skills:
 - **No ORMs / auto-migration tools** – write plain SQL by hand.
 
 ---
-
-## 1 Clone the skeleton repo
-
-```
-git clone https://github.com/100x-Home-LLC/data_engineer_assessment.git
-```
-
-✏️ Note: Rename the repo after cloning and add your full name.
 
 **Start the MySQL database in Docker:**
 
@@ -72,20 +64,7 @@ For MySQL Docker image reference:
 - Python (include a `requirements.txt`)
   Use **MySQL** and SQL for all database work
 - You may use any CLI or GUI for development, but the final changes must be submitted as python/ SQL scripts
-- **Do not** use ORM migrations—write all SQL by hand
-
----
-
-## Submission Guidelines
-
-- Edit the section to the bottom of this README with your solutions and instructions for each section at the bottom.
-- Place all scripts/code in their respective folders (`sql/`, `scripts/`, etc.)
-- Ensure all steps are fully **reproducible** using your documentation
-- Create a new private repo and invite the reviewer https://github.com/mantreshjain
-
----
-
-**Good luck! We look forward to your submission.**
+- **Do not** use ORM migrations—write all SQL by hand.
 
 ## Solutions and Instructions (Filed by Candidate)
 
